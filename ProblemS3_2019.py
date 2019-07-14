@@ -1,4 +1,4 @@
-# CCC Senior 3 Problem: Arithmetic Square
+# CCC 2019 Senior Problem 3: Arithmetic Square
 # https://cemc.uwaterloo.ca/contests/computing/2019/stage%201/seniorEF.pdf
 
 square = [[0 for row in range(3)] for column in range(3)]
