@@ -1,4 +1,4 @@
-# CCC 2019 Senior 1 Program: Flipper
+# CCC 2019 Senior Problem 1: Flipper
 # https://cemc.uwaterloo.ca/contests/computing/2019/stage%201/seniorEF.pdf
 
 flip = input()
